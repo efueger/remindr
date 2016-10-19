@@ -9,7 +9,7 @@ engines:
     - 'app/**/*.test.js'
   eslint:
     enabled: true
-##    channel: "eslint-3"
+    channel: "stable"
     config:
       config: .eslintrc
   fixme:
